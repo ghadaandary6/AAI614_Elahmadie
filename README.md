@@ -8,3 +8,4 @@
 - 🍕 Pizza is one of my favorite foods.
 - 💻 I am interested in Artificial Intelligence, Machine Learning, and Data Science.
 - 🌱 I am always excited to learn new technologies and develop new skills.
+This is my first GitHub repository.
